@@ -1,0 +1,6 @@
+framework module QNPlayerSDK {
+  umbrella header "QNPlayerSDK.h"
+
+  export *
+  module * { export * }
+}
